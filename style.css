@@ -3,7 +3,7 @@ h1 {color: rgb(0, 0, 0);font-size: 12px;text-align: center;}
 body {background-color: rgb(245, 243, 243); font-family: Arial,  sans-serif;}
 
 img {
-    width: 250px; /* Cambia el ancho de la imagen */
+    width: 300px; /* Cambia el ancho de la imagen */
     height: auto; /* Mantiene la proporción de la imagen */
     display: block; /* Hace que la imagen sea un elemento de bloque */
     margin: 0 auto; /* Centra la imagen horizontalmente */
